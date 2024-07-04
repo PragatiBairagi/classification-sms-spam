@@ -17,4 +17,6 @@ Usage
 Train Model: python train_model.py
 Run App: streamlit run app.py
 ![Screenshot (20)](https://github.com/PragatiBairagi/classification-sms-spam/assets/72161428/52560899-191b-4953-9d31-e386a7188005)
+![Screenshot (19)](https://github.com/PragatiBairagi/classification-sms-spam/assets/72161428/1d6789cd-b59e-4c5d-a46c-d07f5a342e37)
+
 
